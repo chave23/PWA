@@ -1,0 +1,21 @@
+{
+    "name": "#ProgramadorUAP",
+    "short_name": "#PUAP",
+    "description": "Bienvenidos a #ProgramadorUAP, donde encontrarás lo que no buscabas :)",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope" : "./",
+    "lang" : "es-MX",
+    "icons" : [
+        
+    
+        {
+            "src":"./img/icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"   
+        }
+    
+        ]
+
+}
